@@ -1,0 +1,17 @@
+{
+  "name": "GHElect",
+  "slug": "ghelect",
+  "icon": "./public/GHElected.png",
+  "description": "Bringing Volunteers and Campagings Together.",
+  "githubUrl": "https://github.com/akveo/kittenTricks",
+  "sdkVersion": "12.1",
+  "orientation": "portrait",
+  "loading": {
+    "icon": "./public/GHElected.png"
+  },
+  "ios": {
+    "bundleIdentifier": "com.ams.GHElect",
+    "buildNumber": "1.0.0"
+  },
+  "version": "1.0.10"
+}
